@@ -1,0 +1,137 @@
+// tag.go.
+
+////////////////////////////////////////////////////////////////////////////////
+//
+// Copyright © 2019..2020 by Vault Thirteen.
+//
+// All rights reserved. No part of this publication may be reproduced,
+// distributed, or transmitted in any form or by any means, including
+// photocopying, recording, or other electronic or mechanical methods,
+// without the prior written permission of the publisher, except in the case
+// of brief quotations embodied in critical reviews and certain other
+// noncommercial uses permitted by copyright law. For permission requests,
+// write to the publisher, addressed “Copyright Protected Material” at the
+// address below.
+//
+////////////////////////////////////////////////////////////////////////////////
+//
+// Web Site Address:	https://github.com/vault-thirteen.
+//
+////////////////////////////////////////////////////////////////////////////////
+
+package main
+
+// HTML Tags.
+const (
+	TagA          = "a"
+	TagAbbr       = "abbr"
+	TagAddress    = "address"
+	TagArea       = "area"
+	TagArticle    = "article"
+	TagAside      = "aside"
+	TagAudio      = "audio"
+	TagB          = "b"
+	TagBase       = "base"
+	TagBdi        = "bdi"
+	TagBdo        = "bdo"
+	TagBlockquote = "blockquote"
+	TagBody       = "body"
+	TagBr         = "br"
+	TagButton     = "button"
+	TagCanvas     = "canvas"
+	TagCaption    = "caption"
+	TagCite       = "cite"
+	TagCode       = "code"
+	TagCol        = "col"
+	TagColgroup   = "colgroup"
+	TagData       = "data"
+	TagDatalist   = "datalist"
+	TagDd         = "dd"
+	TagDel        = "del"
+	TagDetails    = "details"
+	TagDfn        = "dfn"
+	TagDialog     = "dialog"
+	TagDiv        = "div"
+	TagDl         = "dl"
+	TagDt         = "dt"
+	TagEm         = "em"
+	TagEmbed      = "embed"
+	TagFieldset   = "fieldset"
+	TagFigcaption = "figcaption"
+	TagFigure     = "figure"
+	TagFooter     = "footer"
+	TagForm       = "form"
+	TagH1         = "h1"
+	TagH2         = "h2"
+	TagH3         = "h3"
+	TagH4         = "h4"
+	TagH5         = "h5"
+	TagH6         = "h6"
+	TagHead       = "head"
+	TagHeader     = "header"
+	TagHr         = "hr"
+	TagHtml       = "html"
+	TagI          = "i"
+	TagIframe     = "iframe"
+	TagImg        = "img"
+	TagInput      = "input"
+	TagIns        = "ins"
+	TagKbd        = "kbd"
+	TagLabel      = "label"
+	TagLegend     = "legend"
+	TagLi         = "li"
+	TagLink       = "link"
+	TagMain       = "main"
+	TagMap        = "map"
+	TagMark       = "mark"
+	TagMeta       = "meta"
+	TagMeter      = "meter"
+	TagNav        = "nav"
+	TagNoscript   = "noscript"
+	TagObject     = "object"
+	TagOl         = "ol"
+	TagOptgroup   = "optgroup"
+	TagOption     = "option"
+	TagOutput     = "output"
+	TagP          = "p"
+	TagParam      = "param"
+	TagPicture    = "picture"
+	TagPre        = "pre"
+	TagProgress   = "progress"
+	TagQ          = "q"
+	TagRuby       = "ruby"
+	TagRb         = "rb"
+	TagRt         = "rt"
+	TagRtc        = "rtc"
+	TagRp         = "rp"
+	TagS          = "s"
+	TagSamp       = "samp"
+	TagScript     = "script"
+	TagSection    = "section"
+	TagSelect     = "select"
+	TagSmall      = "small"
+	TagSource     = "source"
+	TagSpan       = "span"
+	TagStrong     = "strong"
+	TagStyle      = "style"
+	TagSub        = "sub"
+	TagSummary    = "summary"
+	TagSup        = "sup"
+	TagTable      = "table"
+	TagTbody      = "tbody"
+	TagTd         = "td"
+	TagTemplate   = "template"
+	TagTextarea   = "textarea"
+	TagTfoot      = "tfoot"
+	TagTh         = "th"
+	TagThead      = "thead"
+	TagTime       = "time"
+	TagTitle      = "title"
+	TagTr         = "tr"
+	TagTrack      = "track"
+	TagU          = "u"
+	TagUl         = "ul"
+	TagVar        = "var"
+	TagVideo      = "video"
+	TagWbr        = "wbr"
+)
